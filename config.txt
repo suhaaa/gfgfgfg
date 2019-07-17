@@ -1,0 +1,6 @@
+﻿token=NjAwNzkwODUzMjI4OTUzNjA0.XS-kzg.Ai3CCX1oTewxk_xzUKPECt-Fpto
+owner=495676816166617119
+prefix=L
+game=Like The Best
+stayinchannel=true 
+songinstatus=false
